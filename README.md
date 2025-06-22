@@ -11,9 +11,8 @@ SandipEatsNow is a modernized canteen management system designed to streamline f
 
 This platform enhances operational efficiency by reducing manual processes, improving menu visibility, and providing real-time order updates. By leveraging the power of technology, SandipEatsNow bridges the gap between traditional canteen operations and modern digital solutions, ensuring a seamless experience for both customers and management.
 
-![image](https://github.com/user-attachments/assets/2cf1d0b1-d913-4f45-b2d5-e7648872a11e)
-
 ![image](https://github.com/user-attachments/assets/79c56555-2949-4ae8-8ded-522a9680a186)
+
 
 ![image](https://github.com/user-attachments/assets/88a1c260-caff-49f6-bdf2-2b1ba521fbc5)
 
